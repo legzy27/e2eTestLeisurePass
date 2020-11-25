@@ -1,0 +1,22 @@
+{
+  "name": "e2etestleisurepass",
+  "version": "1.0.0",
+  "description": "E2E Test Leisure Pass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legzy27/e2eTestLeisurePass.git"
+  },
+  "author": "alexo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legzy27/e2eTestLeisurePass/issues"
+  },
+  "homepage": "https://github.com/legzy27/e2eTestLeisurePass#readme",
+  "dependencies": {
+    "cypress": "^6.0.0"
+  }
+}
